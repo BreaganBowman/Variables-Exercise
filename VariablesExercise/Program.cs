@@ -18,4 +18,6 @@
             Console.WriteLine($"Current Temp: {currentTemp}");
             Console.WriteLine($"Current Price: {currentPrice}");
         }
+    }
 }
+
